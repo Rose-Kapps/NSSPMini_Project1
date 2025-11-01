@@ -1,0 +1,6 @@
+/__pycache__/
+data/
+.ipynb_checkpoints/
+T1w/
+fMRI/tfMRI_MOTOR_LR/tfMRI_MOTOR_LR.nii
+fMRI/tfMRI_MOTOR_RL/tfMRI_MOTOR_RL.nii
